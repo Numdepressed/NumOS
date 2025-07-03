@@ -1,3 +1,6 @@
 # NumOS - Version 0.00.1
 
-IMAGE_DESCRIPTION]()
+<p align="center">
+  <img src="images/" alt="Logo" width="200"/>
+</p>
+
