@@ -241,8 +241,8 @@ void process_command(char *command) {
         mark_protected_text();
     } else if (is_clear) {
         clear_screen();
-        kprint("NumOS Kernel v1.0\n");
-        kprint("System initialized - text protected\n");
+        kprint("NumOS Kernel v0.00.1\n");
+        kprint("System initialized\n");
         /* Mark the kernel banner as protected */
         mark_protected_text();
     } else {
